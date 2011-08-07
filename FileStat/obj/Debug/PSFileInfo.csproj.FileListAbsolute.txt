@@ -1,0 +1,5 @@
+c:\users\ben\documents\visual studio 2010\Projects\CompressionTest\PSFileInfo\bin\Debug\PSFileInfo.dll
+c:\users\ben\documents\visual studio 2010\Projects\CompressionTest\PSFileInfo\bin\Debug\PSFileInfo.pdb
+c:\users\ben\documents\visual studio 2010\Projects\CompressionTest\PSFileInfo\obj\Debug\ResolveAssemblyReference.cache
+c:\users\ben\documents\visual studio 2010\Projects\CompressionTest\PSFileInfo\obj\Debug\PSFileInfo.dll
+c:\users\ben\documents\visual studio 2010\Projects\CompressionTest\PSFileInfo\obj\Debug\PSFileInfo.pdb
